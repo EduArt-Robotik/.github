@@ -38,6 +38,6 @@ Link: [joystick_drivers](https://github.com/EduArt-Robotik/joystick_drivers)
 Public benefit repository, that contains software that is useful for the RoboCup in the discipline of rescue robotics.  
 Link: [edu_robocup_rescue_stack](https://github.com/EduArt-Robotik/edu_robocup_rescue_stack)
 ### robotsunite
-This educational project promotes inter-school collaboration in a scenario similar to rescue. Each school develops an individual robot and challenging obstacles / tasks. No single robot can solve the given tasks alone. Thus, student teams from several schools must join forces.
-You can find our project wiki under the following link: https://github.com/EduArt-Robotik/robotsunite/wiki  
+This educational project promotes inter-school collaboration in a scenario similar to rescue. Each school develops an individual robot and challenging obstacles / tasks. No single robot can solve the given tasks alone. Thus, student teams from several schools must join forces.  
+You can find our project wiki here: [Wiki](https://github.com/EduArt-Robotik/robotsunite/wiki)  
 Link: [robotsunite](https://github.com/EduArt-Robotik/robotsunite)
