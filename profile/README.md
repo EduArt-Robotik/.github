@@ -14,6 +14,15 @@ Link: [iotbot](https://github.com/EduArt-Robotik/iotbot)
 ROS2 port of the iotbot repository.  
 Link: [iotbot-ros2](https://github.com/EduArt-Robotik/iotbot-ros2)
 
+## Utility repositories
+Useful tools for controlling our robots.
+### edu_virtual_joy
+Virtual joystick based on Python3. There is a version for ROS and ROS2, which can be used for all robots that process a message of type geometry_msgs/Twist.  
+Link: [edu_virtual_joy](https://github.com/EduArt-Robotik/edu_virtual_joy)
+### joystick_drivers
+Forked from ros-drivers/joystick_drivers (Convinience copy)  
+Link: [joystick_drivers](https://github.com/EduArt-Robotik/joystick_drivers)
+
 ## Perception repositories
 This section contains higher-level algorithms that can be useful for (semi-)autonomous operation.
 ### edu_perception
@@ -23,15 +32,6 @@ Link: [edu_perception](https://github.com/EduArt-Robotik/edu_perception)
 Extension package to control several robots synchronously.  
 Prerequisite: All robots require a precise localization concept.  
 Link: [edu_swarm](https://github.com/EduArt-Robotik/edu_swarm)
-
-## Utility repositories
-Useful tools for controlling our robots.
-### edu_virtual_joy
-Virtual joystick based on Python3. There is a version for ROS and ROS2, which can be used for all robots that process a message of type geometry_msgs/Twist.  
-Link: [edu_virtual_joy](https://github.com/EduArt-Robotik/edu_virtual_joy)
-### joystick_drivers
-Forked from ros-drivers/joystick_drivers (Convinience copy)  
-Link: [joystick_drivers](https://github.com/EduArt-Robotik/joystick_drivers)
 
 ## Project-related repositories
 ### edu_robocup_rescue_stack
