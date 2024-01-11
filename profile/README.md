@@ -12,6 +12,7 @@ Link: [iotbot](https://github.com/EduArt-Robotik/iotbot)
 
 ### iotbot-ros2
 ROS2 port of the iotbot repository. This repository contains only documentation and is used by idividual customers. If you want to use it, please drop a message at info@eduart-robotik.com.
+
 Link: [iotbot-ros2](https://github.com/EduArt-Robotik/iotbot-ros2)
 
 ## Utility repositories
