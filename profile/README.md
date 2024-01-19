@@ -4,14 +4,17 @@ On this page you will find the documentation of the software packages for our ro
 ## Actively maintained robot repositories
 ### edu_robot
 General interface description for all EduArt robots. Docker images are available to control our robots.  
+
 Link: [edu_robot](https://github.com/EduArt-Robotik/edu_robot)
 
 ### edu_robot_control_template
 This template code can be used as an example of how programs can be created to control EduArt robots and query their sensor values. 
+
 Link: [edu_robot_control_template](https://github.com/EduArt-Robotik/edu_robot_control_template)
 
 ### iotbot
 ROS interface for the IOTBot. Description of the hardware interfaces. This repository is still up-to-date for a ROS-based installation. If you want to use ROS2, it is better to switch to edu_robot.  
+
 Link: [iotbot](https://github.com/EduArt-Robotik/iotbot)
 
 ### iotbot-ros2
