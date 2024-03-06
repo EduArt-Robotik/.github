@@ -31,9 +31,6 @@ Link: [iotbot-ros2](https://github.com/EduArt-Robotik/iotbot-ros2)
 ## Utility repositories
 Useful tools for controlling our robots.
 
-### edu_ros2_web_joy
-Web based user interface (Prototype) for controlling the Robot manually without PlaStation Controller  
-Link: [edu_ros2_web_joy](https://github.com/EduArt-Robotik/edu_ros2_web_joy)
 
 ### edu_virtual_joy
 Virtual joystick based on Python3. There is a version for ROS and ROS2, which can be used for all robots that process a message of type geometry_msgs/Twist.  
