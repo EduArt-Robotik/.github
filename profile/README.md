@@ -1,5 +1,6 @@
 # Welcome to EduArt's repository overview
 On this page you will find the documentation of the software packages for our robots as well as project-related repositories.
+You will also find a quick guide and short instructions for our standard products here.
 
 ## Actively maintained robot repositories
 ### edu_robot
